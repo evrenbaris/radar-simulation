@@ -1,0 +1,18 @@
+# Radar Simulation Project
+
+This project simulates a simple radar system using Python. It calculates the distance of a target based on the time taken for a signal to return after reflection.
+
+## Features
+- Transmits and receives radar signals.
+- Visualizes transmitted and reflected signals.
+- Calculates target distance using the speed of light and round-trip time.
+
+## Requirements
+- Python 3.x
+- NumPy
+- Matplotlib
+
+## Usage
+Run the following command in your terminal:
+```bash
+python radar_simulation.py
